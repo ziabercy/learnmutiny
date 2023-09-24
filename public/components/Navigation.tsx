@@ -9,8 +9,8 @@ type Props = {
 
 export default function Navigation({ currentPage }: Props) {
   return (
-    <nav className="flex flex-row">
-      <Image src={logo2} width={200} height={30} alt="Logo" />
+    <nav className="flex flex-row space-x-5 items-end justify-around p-14 pb-0">
+      <Image src={logo2} width={250} height={30} alt="Logo" />
       <NavigationLink href="/" currentPage={currentPage}>
         Home
       </NavigationLink>
