@@ -1,7 +1,5 @@
 we are using [Next.js](https://nextjs.org/)
 
-if you don't see this in yo readme file on vscode, you cloning the wrong repo clown 🤡
-
 ## Set up environment
 
 clone the repo from whichever branch you are assigned with the 'edits' tag.
