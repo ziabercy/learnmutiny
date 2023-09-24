@@ -2,8 +2,8 @@ we are using [Next.js](https://nextjs.org/)
 
 ## Set up environment
 
-clone the repo from whichever branch you are assigned with the 'edits' tag.
-_ex. 'edits-routes' branch_ if you were working on routing.
+clone the repo from whichever branch you are assigned or the tests branch with the 'edits' tag & your handle.
+_ex. 'edits-routes-learnmutiny' branch_ if you were working on routing and you were 'learnmutiny'.
 
 cd into the learnmutiny directory & run the development server:
 
