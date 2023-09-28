@@ -16,7 +16,6 @@ export default function Home() {
     <>
       <Layout>
         <Navigation currentPage="/" />
-        <MainBody info={info} />
       </Layout>
     </>
   );
